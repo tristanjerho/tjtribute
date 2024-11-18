@@ -7,9 +7,9 @@
 
 body {
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #000000;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #adacac;
 }
 
 
@@ -37,7 +37,7 @@ header p {
 
 
 main {
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -54,6 +54,7 @@ main p {
 
 
 .tribute-image {
+    ;
     width: 100%;
     max-width: 100%;
     height: auto;
@@ -61,7 +62,6 @@ main p {
     border-radius: 8px;
 }
 
-/* Responsiveness */
 @media (min-width: 600px) {
     main {
         padding: 40px;
@@ -73,7 +73,7 @@ main p {
 
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 25px;
     font-size: 0.9em;
-    color: #777;
+    color: #6d0b0b;
 }
